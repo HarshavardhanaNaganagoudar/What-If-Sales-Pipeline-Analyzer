@@ -1,0 +1,4 @@
+scenario_name,win_rate_delta,avg_deal_size_delta,discount_rate,sales_headcount_delta,market_index_delta,time_horizon_months, join_key
+Baseline,0,0,0,0,0,3,1
+Optimistic,0.10,0.15,0.00,2,0.05,6,1
+Downturn,-0.10,-0.05,0.05,-1,-0.10,2,1
