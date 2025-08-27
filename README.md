@@ -43,7 +43,7 @@ It enables live toggling between Baseline, Optimistic, and Downturn scenarios â€
 
 ## ðŸ§­ Architecture Overview
 
-![Architecture Diagram](docs/shichi_architecture.png)
+![Architecture Diagram](https://github.com/HarshavardhanaNaganagoudar/What-If-Sales-Pipeline-Analyzer/blob/main/Architecture.png)
 
 ---
 
