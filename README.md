@@ -47,9 +47,9 @@ It enables live toggling between Baseline, Optimistic, and Downturn scenarios �
 
 ---
 
-## 🖼️ App Screenshots
+## 🖼️ Dashboard Screenshots
 
-| Home Screen | Log Screen | Flower Screen |
+| Baseline Scenario | Downturn Scenario | Optimistic Scenario |
 |-------------|---------------|----------------|
-| ![Home](assets/Home_screen.png) | ![log](assets/Log_screen.png) | ![flower](assets/Flower_screen.png) |
+| ![Baseline](https://github.com/HarshavardhanaNaganagoudar/What-If-Sales-Pipeline-Analyzer/blob/main/Scenarios/Dashboard_Baseline_Scenario.png) | ![Downturn](https://github.com/HarshavardhanaNaganagoudar/What-If-Sales-Pipeline-Analyzer/blob/main/Scenarios/Dashboard_Downturn_Scenario.png) | ![Optimistic](https://github.com/HarshavardhanaNaganagoudar/What-If-Sales-Pipeline-Analyzer/blob/main/Scenarios/Dashboard_Optimistic_Scenario.png) |
 
