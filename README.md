@@ -46,6 +46,11 @@ It enables live toggling between Baseline, Optimistic, and Downturn scenarios �
 ![Architecture Diagram](https://github.com/HarshavardhanaNaganagoudar/What-If-Sales-Pipeline-Analyzer/blob/main/Architecture.png)
 
 ---
+## 📺 Demo Video
+
+🎥 [Watch the Demo on YouTube](https://youtu.be/NcOJ9OBoktU?si=WdNsO-ZqwbxChT7Q)
+
+---
 
 ## 🖼️ Dashboard Screenshots
 
