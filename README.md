@@ -53,3 +53,24 @@ It enables live toggling between Baseline, Optimistic, and Downturn scenarios �
 |-------------|---------------|----------------|
 | ![Baseline](https://github.com/HarshavardhanaNaganagoudar/What-If-Sales-Pipeline-Analyzer/blob/main/Scenarios/Dashboard_Baseline_Scenario.png) | ![Downturn](https://github.com/HarshavardhanaNaganagoudar/What-If-Sales-Pipeline-Analyzer/blob/main/Scenarios/Dashboard_Downturn_Scenario.png) | ![Optimistic](https://github.com/HarshavardhanaNaganagoudar/What-If-Sales-Pipeline-Analyzer/blob/main/Scenarios/Dashboard_Optimistic_Scenario.png) |
 
+---
+
+## 🛠️ Tools Used  
+- **Tableau Next** – core analytics and dashboarding platform  
+- **Tableau Cloud** – collaboration and hosting  
+- **Salesforce Data Cloud** *(optional, for production use)* – real-time CRM pipeline data source  
+- **Pandas (Python)** – synthetic data generator  
+- **CSV Join** – to combine scenarios with opportunities  
+
+---
+
+## 🔮 Future Scope  
+- **Copilot-to-filter integration** → natural language controls instead of dropdowns  
+- **Slack integration** → run what-if queries directly in Slack  
+- **Live Salesforce CRM data** → replace CSV with live opportunity data streams  
+- **Smarter forecasting models** → probability-adjusted ML-based forecasting  
+
+---
+
+## 🏆 Why This Matters  
+This project demonstrates how **agentic analytics** can empower sales teams to explore the future of their pipeline — not just the past. It’s a step toward **decision intelligence inside Tableau Next**.  
